@@ -7,3 +7,6 @@
 - [x] Testando ferramentas do Power BI;
 
 
+<div>
+<iframe title="DashboardVendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzcyMzJlNjEtOTRlYS00NDBhLWEwN2ItYmIwMjk3YmJhMjQ3IiwidCI6IjNmN2IwYWQzLTdmNGEtNDdlMS04YjlkLWE5M2ZjYjVhMTExMyJ9&pageName=ReportSectiond94ad12410c583416068" frameborder="0" allowFullScreen="true"></iframe>
+</div> 
