@@ -9,3 +9,8 @@
 ### Dashboard de Analise de Vendas
 
 https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html
+
+ <div> <p> Dashboard de Analise dados extraídos apartir de uma planilha Excel 
+           contendo informações gerais de um relatório de vendas de uma empresa ficticia do setor de varejo de 
+          eletronicos no Brasil.
+ </p></div>
