@@ -7,6 +7,5 @@
 - [x] Testando ferramentas do Power BI;
 
 ### Dashboard de Analise de Vendas
-<div>
-<img src="https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html"/>
-</div>
+
+https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html
