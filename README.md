@@ -6,5 +6,5 @@
 - [x] Criar Dashboard com Power BI apartir de dado contidos em uma planilha do Excel;
 - [x] Testando ferramentas do Power BI;
 
-### Dashboard de Analise de Vendas
+### Dashboard Relatório de Vendas
 :point_right:[Power BI](https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html) Clique no link para interagir com o Dashboard
