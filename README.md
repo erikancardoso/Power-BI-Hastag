@@ -8,5 +8,5 @@
 
 ### Dashboard de Analise de Vendas
 <a href="">
-<img src="https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html">
+<img src="https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html"/>
 </a>
