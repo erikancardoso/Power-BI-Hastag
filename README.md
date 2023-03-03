@@ -7,5 +7,4 @@
 - [x] Testando ferramentas do Power BI;
 
 ### Dashboard de Analise de Vendas
-##### Dashboard de Analise dados extraídos apartir de uma planilha Excel 
-       https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html
+:point_right:[Power BI](https://erikancardoso.github.io/Power-BI-Hastag/dashboard.html) Clique no link para interagir com o Dashboard
